@@ -1,24 +1,3 @@
-print('Selamat pagi Andi')
-# Selamat pagi Andi
-
-print('Selamat pagi', 'Budi!')
-# Selamat pagi Budi!
-
-print('Selamat', 'pagi', 'Doni!')
-# Selamat pagi Doni!
-
-print('Andi', 'Budi', 'Tasya', 'Lala')
-# Andi Budi Tasya Lala
-
-print('Andi', 'Budi', 'Tasya', 'Lala', sep='_^_')
-# Andi_^_Budi_^_Tasya_^_Lala
-
-print('1', '2', '3', sep="*", end="@")
-# 1*2*3@
-
-print('1', '2', '3', sep="🐢", end="🦖\n")#
-# 1🐢2🐢3🦖
-
 a = 5
 b = 3
 
