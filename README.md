@@ -22,3 +22,11 @@ Ini adalah kode program untuk tutorial python dasar di [jagongoding](https://jag
 8. [Fungsi](https://jagongoding.com/python/dasar/fungsi/)
 9. [Fungsi Rekursif](https://jagongoding.com/python/dasar/fungsi-rekursif/)
 10. [Pass](https://jagongoding.com/python/dasar/pass/)
+
+# Belajar Python Menengah
+
+Seri tutorial berikutnya adalah seri belajar [python tingkat menengah](https://github.com/jagongoding-com/python-menengah).
+
+# 18+ Contoh Program Python
+
+Kemudian seri tutorial berikutnya adalah [contoh program python untuk melatih logika](https://github.com/jagongoding-com/python-latihan-logika)
