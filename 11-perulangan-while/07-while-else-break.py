@@ -11,7 +11,7 @@ while i < len(listKota):
     print('Ketemu di index', i)
     break
 
-  print('Bukan ', listKota[i])
+  print('Bukan', listKota[i])
   i += 1
 else:
   print('Maaf, kota yang anda cari tidak ditemukan.')
