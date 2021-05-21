@@ -1,13 +1,13 @@
 def tampilkanAngka (batas, i = 1):
   prefix = '--' * (i - 1)
 
-  print(prefix + 'Sebelum rekursif ({})'.format(i))
+  print(f'{prefix} Sebelum rekursif ({i})')
   if (i < batas):
     # di sini lah rekursifitas itu terjadi
     tampilkanAngka(batas, i + 1)
 
-  print(prefix + 'Setelah rekursif ({})'.format(i))
+  print(f'{prefix} Setelah rekursif ({i})')
 
-# memanggil fungsi tampilanAngka
+# memanggil fungsi tampilkanAngka
 # untuk pertama  kali
 tampilkanAngka(5)

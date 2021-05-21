@@ -1,4 +1,4 @@
 def perkenalan (nama, asal):
-  print("Perkenalkan saya {} dari {}".format(nama, asal))
+  print(f"Perkenalkan saya {nama} dari {asal}")
 
 perkenalan("Renza Ilhami", "Jawa Timur")

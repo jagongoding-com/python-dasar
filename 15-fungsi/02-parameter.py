@@ -2,7 +2,7 @@ def selamat_datang (nama):
   """
   Fungsi ini digunakan untuk menyapa seseorang!
   """
-  print('Halo {}, selamat datang!'.format(nama))
+  print(f'Halo {nama}, selamat datang!')
 
 selamat_datang('Nurul')
 selamat_datang('Lendis')

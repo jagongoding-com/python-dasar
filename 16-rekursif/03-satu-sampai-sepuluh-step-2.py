@@ -1,5 +1,5 @@
 def tampilkanAngka (batas, i = 1):
-  print('Perulangan ke', i)
+  print(f'Perulangan ke {i}')
 
 # Panggil beberapa kali untuk mensimulasikan
 # cara kerja

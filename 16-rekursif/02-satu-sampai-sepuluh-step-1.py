@@ -1,5 +1,5 @@
 def tampilkanAngka (i):
-  print('Perulangan ke', i)
+  print(f'Perulangan ke {i}')
 
 # panggil beberapa kali
 tampilkanAngka(1)

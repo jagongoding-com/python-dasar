@@ -4,4 +4,6 @@ def suhu_udara (daerah, derajat = 30, satuan = 'celcius'):
   tentang suhu udara di suatu daerah.
   """
 
-  print("Suhu di {} adalah {} {}".format(daerah, derajat, satuan))
+  print(f"Suhu di {daerah} adalah {derajat} {satuan}")
+
+suhu_udara("Jakarta")

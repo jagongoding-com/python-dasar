@@ -3,8 +3,8 @@ def tampilkanAngka (batas, i = 1):
     # di sini lah rekursifitas itu terjadi
     tampilkanAngka(batas, i + 1)
 
-  print('Perulangan ke', i)
+  print(f'Perulangan ke {i}')
 
-# memanggil fungsi tampilanAngka
+# memanggil fungsi tampilkanAngka
 # untuk pertama  kali
 tampilkanAngka(10)
